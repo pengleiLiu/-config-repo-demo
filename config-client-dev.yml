@@ -1,3 +1,5 @@
 info:
   profile: dev
-  from: git-repo
+  name: git-repo
+  age: 15
+  
